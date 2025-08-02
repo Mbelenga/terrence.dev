@@ -2,8 +2,8 @@ const projects = [
   {
     title: "Meal Planner",
     description: "Django app for weekly meal planning.",
-    tech: ["Django", "HTML", "SQLite"],
-    github: "https://github.com/yourusername/meal-planner",
+    tech track: ["Django", "HTML", "SQL"],
+    github: "https://github.com/Mbelenga/Meal_Planner",
     live: null,
   },
   {
